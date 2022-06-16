@@ -1,0 +1,18 @@
+[
+  {
+    "package": "esaddle",
+    "oncran": true
+  },
+  {
+    "package": "mgcViz",
+    "oncran": true
+  },
+  {
+    "package": "mvnfast",
+    "oncran": true
+  },
+  {
+    "package": "synlik",
+    "oncran": true
+  }
+]
