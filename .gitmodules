@@ -13,13 +13,13 @@
 	url = https://github.com/mfasiolo/mgcviz
 	shallow = true
 	registered = true
-[submodule "mvnfast"]
-	path = mvnfast
-	url = https://github.com/mfasiolo/mvnfast
-	shallow = true
-	registered = true
 [submodule "synlik"]
 	path = synlik
 	url = https://github.com/mfasiolo/synlik_release
+	shallow = true
+	registered = true
+[submodule "mvnfast"]
+	path = mvnfast
+	url = https://github.com/mfasiolo/mvnfast
 	shallow = true
 	registered = true
