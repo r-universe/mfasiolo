@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "synlik",
+    "package": "mvnfast",
     "oncran": true
   },
   {
-    "package": "mvnfast",
+    "package": "synlik",
     "oncran": true
   }
 ]
