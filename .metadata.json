@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "qgam",
+    "oncran": true
+  },
+  {
     "package": "synlik",
     "oncran": true
   }

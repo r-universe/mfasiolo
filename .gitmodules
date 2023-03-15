@@ -18,6 +18,11 @@
 	url = https://github.com/mfasiolo/mvnfast
 	shallow = true
 	registered = true
+[submodule "qgam"]
+	path = qgam
+	url = https://github.com/mfasiolo/qgam
+	shallow = true
+	registered = true
 [submodule "synlik"]
 	path = synlik
 	url = https://github.com/mfasiolo/synlik_release
