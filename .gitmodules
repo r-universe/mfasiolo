@@ -14,6 +14,3 @@
 [submodule "qgam"]
 	path = qgam
 	url = https://github.com/mfasiolo/qgam
-[submodule "synlik"]
-	path = synlik
-	url = https://github.com/mfasiolo/synlik_release
